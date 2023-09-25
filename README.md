@@ -23,9 +23,9 @@ print palindrome if it's equal else print not a palindrome.
 Save the program and run the program in visual studio 2022.
 
 ## Program:
-DEVELOPED BY : S Dhanush Praboo
+DEVELOPED BY : S Praneet
 
-REG.NO : 212221230019
+REG.NO : 212221230078
 ~~~
 using System;
 namespace PALINDROME
